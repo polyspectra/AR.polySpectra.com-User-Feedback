@@ -13,6 +13,8 @@ Please report issues/bugs and share feature requests by creating a new 'issue' h
 5. Click the share icon to get your unique link and QR code, to copy to your clipboard or scan with your mobile device or tablet.
 6. If you are on desktop, you can scan the QR code in the bottom center of the screen to load the website on your mobile device or tablet. Once a file is saved, this QR code will automatically update with the most recent .STL file and color settings.
 
+### Example Links:
+- A blue bracket: https://ar.polyspectra.com?id=wqnsims3kZSUXTvUDAajj&color=%230001ff 
 
 ### Known Browser/Device Issues
 - The AR experience may not launch correctly on iOS devices from the built-in browsers inside of the Facebook, LinkedIn, or Instagram apps.
